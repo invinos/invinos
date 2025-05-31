@@ -10,8 +10,8 @@
 
 Download from any mirror below:
 
-- 🔗 [Storj](https://link.storjshare.io/s/jvjbzjm2wwalcik2cv5v43lgtuhq/invinos-app/Invinos_v1_20.apk)
 - 🔗 [Arweave](https://app.ardrive.io/#/file/124f2ecc-5d9a-4089-ad12-8e73082082fe/view)
+- 🔗 [Storj](https://link.storjshare.io/s/jvjbzjm2wwalcik2cv5v43lgtuhq/invinos-app/Invinos_v1_20.apk)
 - 🔗 [Filebase](https://occupational-moccasin-marsupial.myfilebase.com/ipfs/QmbFWpL5GvhketRwAP8vmDCD9MFZNQwSt7PpbT7ZLfu9RY?download=true&filename=Invinos_v1_20.apk)
 - 🔗 [Pinata](https://green-selected-tahr-884.mypinata.cloud/ipfs/bafybeic7v73wyct227y6xnqychyftmntonqyuat4xcbuwzitr4llgyyulu)
 
@@ -49,7 +49,7 @@ graph TD
 
 * **Version:** 1.20
 * **Platform:** Android
-* **Size:** \~\[file size] MB
+* **Size:** \~\[57.68 MB] MB
 
 ---
 
