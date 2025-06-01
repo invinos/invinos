@@ -1,4 +1,4 @@
-# 🛡️ Invinos — The Privacy OS for Web3 & AI
+# Invinos — The Privacy OS for Web3 & AI
 
 **Invinos** is a decentralized, privacy-first mobile platform for Web3. It combines a private browser with VPN, anonymous crypto transactions, and a secure local ChatAI agent — all powered by your own MetaMask wallet.
 
